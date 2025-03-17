@@ -22,6 +22,7 @@ dependencies {
     implementation("com.h2database:h2:2.3.232")
     implementation("org.apache.opennlp:opennlp-tools:2.5.3")
     implementation("org.apache.commons:commons-text:1.13.0")
+    implementation("com.google.guava:guava:33.4.0-jre")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
