@@ -1,0 +1,10 @@
+build/
+.gradle/
+
+# OS and IDE files
+.DS_Store
+.classpath
+.project
+.settings/
+.idea/
+*.iml
